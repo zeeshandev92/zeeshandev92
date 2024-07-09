@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Developer** from Faisalabad, Pakistan, with 2 years of experience in PHP and Laravel. I specialize in developing complex web applications with a focus on clean code and efficient problem-solving.
+I'm a **Full Stack Developer** from Faisalabad, Pakistan, with 3 years of experience in PHP and Laravel. I specialize in developing complex web applications with a focus on clean code and efficient problem-solving.
 
 ### 🏢 Currently at Fillinx Solutions
 - **API Development**: Integrating third-party APIs (Shopify, Firebase, Google Analytics).
